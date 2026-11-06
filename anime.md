@@ -1,175 +1,66 @@
-🍥 MOJE OBLÍBENÉ ANIME
+🍥 ANIME WORLD
 
-Ahoj! 👋 Vítej na mém projektu o anime.
+Welcome to the world of anime!
 
-Anime mám moc rád, protože jsou zábavná, zajímavá a mají krásné obrázky. Najdeme v nich hodně hrdinů, dobrodružství, soubojů a kamarádství.
+Anime je součást japonské kultury. Najdeme zde akci, dobrodružství, humor, emoce a spoustu nezapomenutelných postav.
 
-Doufám, že se ti můj projekt bude líbit!
+V tomto projektu najdeš moje oblíbená anime, jejich hlavní postavy a moje hodnocení.
 
-!Anime
+🎌 1. ABOUT ANIME
 
-🎌 1. Co je to anime?
+Anime pochází z Japonska a je známé po celém světě.
 
-Anime jsou kreslené seriály a filmy, které pocházejí z Japonska.
+Každé anime má svůj vlastní příběh, svět a postavy. Některá anime jsou plná akce, jiná se zaměřují na přátelství nebo romantiku.
 
-V anime můžeme vidět:
+Nejoblíbenější žánry
+Action – souboje a dobrodružství.
+Romance – láska a vztahy.
+Fantasy – magie a jiné světy.
+Comedy – humor a zábava.
+Horror – strach a napětí.
+⭐ 2. MY FAVORITE ANIME
+🍥 Naruto
 
-🥷 Statečné hrdiny.
-⚔️ Velké souboje.
-❤️ Přátelství a lásku.
-🐉 Kouzla a příšery.
-🌍 Různé zajímavé světy.
-⭐ Proč mám anime rád?
+!Naruto
 
-Mám rád anime, protože každý příběh je jiný. Některé jsou vtipné, jiné smutné a některé mají hodně akce.
+Naruto je příběh mladého ninji, který se chce stát Hokagem. Na své cestě získává přátele a překonává mnoho překážek.
 
-Nejvíc mě baví zajímavé postavy a jejich dobrodružství.
+Moje oblíbená věc: Jeho odhodlání a nikdy nekončící energie.
 
-Vždycky se těším, co se stane v dalším díle!
+⚔️ Attack on Titan
 
-🍥 2. Naruto
+Lidstvo žije za obrovskými zdmi, které ho chrání před nebezpečnými titány.
 
-Naruto je můj oblíbený anime hrdina.
+Moje oblíbená věc: Napínavý příběh a nečekané zvraty.
 
-Je to oranžový ninja, který se chce stát Hokagem. To je velmi důležitý člověk v jeho vesnici.
+🔥 Demon Slayer
 
-Naruto má rád svoje kamarády a nikdy se nevzdává.
+Tanjiro se vydává na cestu, aby zachránil svou sestru Nezuko a bojoval proti démonům.
 
-💪 Co se mi na Narutovi líbí?
-Je odvážný.
-Pomáhá kamarádům.
-Nikdy se nevzdává.
-Je zábavný a trochu bláznivý.
-
-Jeho největší sen je stát se Hokagem!
-
-Podle mě je Naruto opravdu skvělý hrdina.
-
-🔥 3. Další anime, která znám
-⚔️ Demon Slayer
-
-Demon Slayer je anime o klukovi jménem Tanjiro.
-
-Tanjiro bojuje proti démonům a chce zachránit svoji sestru Nezuko.
-
-Je hodný, statečný a pomáhá ostatním.
+Moje oblíbená věc: Krásná animace a souboje.
 
 ☠️ One Piece
 
-One Piece je příběh o klukovi jménem Luffy.
+Monkey D. Luffy se vydává na moře, aby našel legendární poklad One Piece.
 
-Luffy chce najít velký poklad a stát se králem pirátů.
+Moje oblíbená věc: Dobrodružství a přátelství mezi členy posádky.
 
-Má hodně kamarádů a společně zažívají různá dobrodružství.
+🏆 3. MY ANIME RANKING
 
-👊 Jujutsu Kaisen
+Toto je moje osobní hodnocení.
 
-Jujutsu Kaisen je anime o klukovi jménem Yuji.
+Anime	Žánr	Hodnocení
+Naruto	Action	⭐⭐⭐⭐⭐
+Attack on Titan	Drama	⭐⭐⭐⭐⭐
+Demon Slayer	Fantasy	⭐⭐⭐⭐⭐
+One Piece	Adventure	⭐⭐⭐⭐
 
-Bojuje proti zlým příšerám a snaží se chránit ostatní lidi.
+Každý má jiný vkus, takže tvoje pořadí může být úplně jiné.
 
-Je to anime plné soubojů a napětí.
+💬 4. WHY I LOVE ANIME
 
-❤️ 4. Co mám na anime nejraději?
+Anime mám rád hlavně kvůli:
 
-Moje nejoblíbenější věci na anime jsou:
-
-Postavy – každá je něčím zajímavá.
-Souboje – jsou napínavé a zábavné.
-Příběhy – nikdy nevím, co se stane.
-Hudba – některé písničky jsou opravdu skvělé.
-Kamarádství – hrdinové si navzájem pomáhají.
-
-Anime je jen obyčejná pohádka.
-
-Anime je mnohem víc! 😁
-
-📋 5. Můj seznam úkolů
-
-Tady je můj seznam toho, co už jsem udělal a co ještě chci udělat.
-
-Vytvořit GitHub účet.
-Založit repozitář.
-Vytvořit README.md.
-Podívat se na nové anime.
-Najít další oblíbenou postavu.
-Dokoukat One Piece.
-💻 6. Malý program v Pythonu
-
-Tady je jednoduchý program, který vypíše moje oblíbená anime.
-
-python
-anime = ["Naruto", "One Piece", "Demon Slayer"]
-
-print("Moje oblíbená anime jsou:")
-
-for serial in anime:
-    print(serial)
-
-
-Výsledek programu:
-
-text
-Moje oblíbená anime jsou:
-Naruto
-One Piece
-Demon Slayer
-
-
-Programování může být také zábava!
-
-📊 7. Moje hodnocení anime
-
-Tady jsem napsal, jak se mi jednotlivá anime líbí.
-
-Anime	Hodnocení	Moje oblíbená postava
-Naruto	⭐⭐⭐⭐⭐	Naruto
-Demon Slayer	⭐⭐⭐⭐⭐	Tanjiro
-One Piece	⭐⭐⭐⭐	Luffy
-Jujutsu Kaisen	⭐⭐⭐⭐⭐	Gojo
-
-Hodnocení je moje vlastní a každý může mít jiný názor.
-
-🧮 8. Malá matematika
-
-Představme si, že každý den sleduji 2 díly anime.
-
-Kolik dílů uvidím za 5 dní?
-
-2
-×
-5
-=
-10
-
-Za 5 dní uvidím 10 dílů! 🍿
-
-🔄 9. Jak si vyberu anime?
-
-Tady je jednoduchý obrázek, který ukazuje, jak si vybírám anime.
-
-mermaid
-flowchart TD
-    A[Chci sledovat anime] --> B{Co mám rád?}
-    B -->|Ninjové| C[Naruto]
-    B -->|Piráty| D[One Piece]
-    B -->|Démony| E[Demon Slayer]
-    C --> F[Hurá na anime!]
-    D --> F
-    E --> F
-
-🌐 10. Kde najdu další anime?
-
-Tady jsou stránky, na kterých se můžu dozvědět více o anime.
-
-MyAnimeList – najdu zde hodně anime.
-Crunchyroll – stránka na sledování anime.
-🎉 11. Závěr
-
-Anime je pro mě velká zábava!
-
-Mám rád jeho postavy, příběhy a dobrodružství. Každý si může najít anime, které se mu bude líbit.
-
-Doufám, že se ti můj projekt líbil a že se také podíváš na nějaké anime!
-
-❤️ DĚKUJI ZA PŘEČTENÍ! 🍥
+Zajímavým příběhům.
+Skvělé animaci.
+Nezapomenuteln
