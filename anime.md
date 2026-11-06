@@ -4,7 +4,7 @@
 
 *Anime není jen obyčejná zábava, ale celý svět plný dobrodružství, přátelství a snů.*
 
-![Anime](images/OIP(1).webp)
+![Anime](images/Solo.webp)
 
 *Obrázek představující svět japonského anime.*
 
