@@ -1,15 +1,16 @@
 {
-  "jmeno": "Honza hoang",
-  "vek": 15,
+  "jmeno": "Honza",
+  "vek": 16,
   "je_plnolety": false,
-  "poznamka": null,
+  "poznamka": "Rad hraji hry a sleduji anime",
   "adresa": {
     "mesto": "Praha",
     "stat": "Cesko"
   },
   "konicky": [
-    "Anime",
-    "Hraní her",
+    "Ball knowledge",
+    "Editovaní videa",
     "Programování"
-  ]
+  ],
+  "oblibene_cislo": 7
 }
