@@ -1,1 +1,15 @@
-
+{
+  "jmeno": "Karel",
+  "vek": 15,
+  "je_plnolety": false,
+  "poznamka": null,
+  "adresa": {
+    "mesto": "Praha",
+    "stat": "Cesko"
+  },
+  "konicky": [
+    "Anime",
+    "Hraní her",
+    "Programování"
+  ]
+}
